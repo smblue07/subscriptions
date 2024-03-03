@@ -1,4 +1,5 @@
 tuic://28d69149-c275-4db4-99d6-af170513d15c:28d69149-c275-4db4-99d6-af170513d15c@nl.nagarin.ir:3556?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#syd-tuic
 hy2://237e413d-fd57-4886-a35c-5bf6f33c995f@nl.nagarin.ir:31828?insecure=1&mport=31828&sni=www.bing.com#syd-h2
-warp://188.114.97.91:8886/?ifp=1-5
-warp://162.159.192.180:4500/?ifp=1-5
+warp://[2606:4700:d1::1d5b:cb78:6bef:21ed]:5279/?ifp=1-5
+warp://[2606:4700:d0::ae62:319a:9868:c771]:864/?ifp=1-5
+warp://[2606:4700:d0::9fd2:ab81:a1aa:81a2]:5279/?ifp=1-5

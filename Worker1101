@@ -6,3 +6,5 @@ vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@www.gov.se:443?encryption=none&secu
 vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@discord.com:443?encryption=none&security=tls&sni=1101.nagarin.ir&fp=randomized&type=ws&host=1101.nagarin.ir&path=%2F%3Fed%3D2560#Discord-wrkrTLS
 vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@visa.com:443?encryption=none&security=tls&sni=1101.nagarin.ir&fp=randomized&type=ws&host=1101.nagarin.ir&path=%2F%3Fed%3D2560#visa-wrkrTLS
 vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@codepen.io:443?encryption=none&security=tls&sni=1101.nagarin.ir&fp=randomized&type=ws&host=1101.nagarin.ir&path=%2F%3Fed%3D2560#codepen-wrkrTLS
+vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=posa-worker1101.po-sarikhani.workers.dev&path=%2F%3Fed%3D2560#Codepen-workers
+vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:443?encryption=none&security=tls&sni=posa-worker1101.po-sarikhani.workers.dev&fp=randomized&type=ws&host=posa-worker1101.po-sarikhani.workers.dev&path=%2F%3Fed%3D2560#Codepen-workers-TLS

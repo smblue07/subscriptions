@@ -7,16 +7,16 @@ vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@discord.com:443?encryption=none&sec
 vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@visa.com:443?encryption=none&security=tls&sni=1101.nagarin.ir&fp=randomized&type=ws&host=1101.nagarin.ir&path=%2F%3Fed%3D2560#visa-wrkrTLS
 vless://6d3fa2a3-58ca-4b8d-afc3-30cc5e496a43@codepen.io:443?encryption=none&security=tls&sni=1101.nagarin.ir&fp=randomized&type=ws&host=1101.nagarin.ir&path=%2F%3Fed%3D2560#codepen-wrkrTLS
 
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Codepen-workers
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@discord.com:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Discord-workers
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@zula.ir:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Zula-workers
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@visa.com:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Visa-workers
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@www.gov.se:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#gov-workers
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@codepen.io:443?encryption=none&security=tls&sni=worker1101.si69ine.onflashdrive.app&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Codepen-workers-TLS
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@discord.com:443?encryption=none&security=tls&sni=worker1101.si69ine.onflashdrive.app&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Discord-workers-TLS
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@zula.ir:443?encryption=none&security=tls&sni=worker1101.si69ine.onflashdrive.app&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Zula-workers-TLS
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@visa.com:443?encryption=none&security=tls&sni=worker1101.si69ine.onflashdrive.app&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#Visa-workers-TLS
-vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@www.gov.se:443?encryption=none&security=tls&sni=worker1101.si69ine.onflashdrive.app&fp=randomized&type=ws&host=worker1101.si69ine.onflashdrive.app&path=%2F%3Fed%3D2560#gov-workers-TLS
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Codepen-workers
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@discord.com:80?encryption=none&security=none&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Discord-workers
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@zula.ir:80?encryption=none&security=none&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Zula-workers
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@visa.com:80?encryption=none&security=none&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Visa-workers
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@www.gov.se:80?encryption=none&security=none&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#gov-workers
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@codepen.io:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Codepen-workers-TLS
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@discord.com:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Discord-workers-TLS
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@zula.ir:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Zula-workers-TLS
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@visa.com:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Visa-workers-TLS
+vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@www.gov.se:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#gov-workers-TLS
 
 vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers
 vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:443?encryption=none&security=tls&sni=pworker1101.ahooparfum.pw&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers-TLS

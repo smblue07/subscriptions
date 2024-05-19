@@ -12,4 +12,4 @@ vless://5252e5c3-db38-4e3c-ba2f-b13e118af395@speed.cloudflare.com:2083?encryptio
 vless://5252e5c3-db38-4e3c-ba2f-b13e118af395@www.19790823.com:2083?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PSTLS-19790823
 vless://5252e5c3-db38-4e3c-ba2f-b13e118af395@hokiuwu.com:2083?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PSTLS-Hokiuwu
 vless://5252e5c3-db38-4e3c-ba2f-b13e118af395@172.66.213.38:2083?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PSTLS-Auto
-socks://c3lkOlNhamphZHh4eA==@panel.ahooparfum.ir:443#Socks%20PS
+socks://c3lkOlNhamphZHh4eA==@panel.ahooparfum.pw:443#Socks%20PS

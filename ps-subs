@@ -15,3 +15,4 @@ vless://fb1818e2-ed2d-4542-bea7-b05d53d5f69d@hokiuwu.com:8443?encryption=none&se
 vless://fb1818e2-ed2d-4542-bea7-b05d53d5f69d@162.251.82.187:8443?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PSTLS-Auto
 socks://c3lkOlNhamphZHh4eA==@panel.ahooparfum.pw:443#Socks%20PS
 vless://fb1818e2-ed2d-4542-bea7-b05d53d5f69d@proxy.ahooparfum.pw:443?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PSTLS-OrRulesTLS
+vless://af0e1321-19b9-44d5-cc30-96d568c4d1d4@panel.ahooparfum.pw:37721?type=tcp&security=none#TCP

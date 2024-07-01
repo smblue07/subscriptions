@@ -4,6 +4,7 @@ vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@visa.com:80?encryption=none&securit
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@speed.cloudflare.com:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginRules
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@www.19790823.com:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginRules
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@hokiuwu.com:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginRules
+vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@Proxys.ahooparfum.pw:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginRules
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@162.251.82.187:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginRules
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@zula.ir:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@discord.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
@@ -11,5 +12,14 @@ vless://67432ec9-a906-49e2-8584-7b1ff9c84781@visa.com:2087?encryption=none&secur
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@speed.cloudflare.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@www.19790823.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@hokiuwu.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
+vless://67432ec9-a906-49e2-8584-7b1ff9c84781@proxy.ahooparfum.pw:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@162.251.82.187:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#PS-TLS
+vless://e23486d4-0333-49bc-aeca-d34900655912@zula.ir:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@discord.com:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@visa.com:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@speed.cloudflare.com:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@www.19790823.com:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@hokiuwu.com:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@orginv6.ahooparfum.pw:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
+vless://e23486d4-0333-49bc-aeca-d34900655912@162.251.82.187:80?encryption=none&security=none&type=ws&host=orginv6.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#OriginV6
 socks://c3lkOlNhamphZHh4eA==@panel.ahooparfum.pw:443#Socks%20PS

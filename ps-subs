@@ -15,7 +15,7 @@ vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@185.146.173.252:80?encryption=none&
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@198.41.192.122:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#ORV4-ipClean12
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@198.41.192.142:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#ORV4-ipClean13
 vless://1e33a044-809b-43d6-889b-7bc9656ad9aa@162.251.82.187:80?encryption=none&security=none&type=ws&host=Proxys.ahooparfum.pw&path=%2FOriginRulesWS%3Fed%3D2048#ORV4-ipClean14
-vless://67432ec9-a906-49e2-8584-7b1ff9c84781@162.251.82.187:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#ORV4tls-ip4Server
+vless://67432ec9-a906-49e2-8584-7b1ff9c84781@proxy.ahooparfum.pw:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#ORV4tls-ip4Server
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@discord.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#ORV4tls-Discord
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@visa.com:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#ORV4tls-Visa
 vless://67432ec9-a906-49e2-8584-7b1ff9c84781@141.101.114.40:2087?encryption=none&security=tls&sni=proxy.ahooparfum.pw&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=proxy.ahooparfum.pw&path=%2FTLS%3Fed%3D2048#ORV4tls-ipClean1

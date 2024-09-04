@@ -18,7 +18,7 @@ vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@zula.ir:443?encryption=none&securit
 vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@visa.com:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#Visa-workers-TLS
 vless://36ca77cf-89fd-4a79-9c70-3c3e3d0fec1c@www.gov.se:443?encryption=none&security=tls&sni=smb-worker-1101.smblue.workers.dev&fp=randomized&type=ws&host=smb-worker-1101.smblue.workers.dev&path=%2F%3Fed%3D2560#gov-workers-TLS
 
-vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers
-vless://20ddebef-f933-4267-83ed-e06c83a14e32@codepen.io:443?encryption=none&security=tls&sni=pworker1101.ahooparfum.pw&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers-TLS
+vless://20ddebef-f933-4267-83ed-e06c83a14e45@codepen.io:80?encryption=none&security=none&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers
+vless://20ddebef-f933-4267-83ed-e06c83a14e45@codepen.io:443?encryption=none&security=tls&sni=pworker1101.ahooparfum.pw&fp=randomized&type=ws&host=worker1101.ahooparfum.pw&path=%2F%3Fed%3D2560#Codepen-workers-TLS
 
 vless://e1e5538a-7e31-4df4-9c0d-f5003444378c@skk.moe:8880?encryption=none&security=none&type=ws&host=ath-wz.gtcgroupit2.workers.dev&path=%2F%3Fed%3D2560#ath-wz-Workers
